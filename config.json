@@ -1,0 +1,6 @@
+{
+    "clientId": "your bot's applicationId",
+    "guildId": "your guild id",
+    "token": "your bot's token",
+    "channelId": "any channel id (a channel to send messages)"
+}
